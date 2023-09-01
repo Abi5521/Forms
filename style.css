@@ -1,0 +1,19 @@
+#btn{
+    width: 300px;
+    border-radius: 50px;
+    color: white;
+    background: green;
+}
+form{
+    border: 3px inset grey;
+    width: 380px;
+    background: ;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+body{
+    background-image: url("https://universalbackground.com/wordpress/wp-content/uploads/2016/06/grads.jpg")
+}
+label{
+    margin-left: ;
+}
